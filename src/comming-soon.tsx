@@ -13,11 +13,12 @@ var CommingSoon = React.createClass({
               </div>
             </div>
             <div className="col-12 col-md-7 right">
-              <div className="mainInfo">
+              <div className="mainInfso">
                 <h1>COMING SOON</h1>
                 <p className="slogan">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime consequuntur
                   delectus asperiores tempora autem laboriosam omnis. </p>
-                <form className="form-subscribe" action="#"> <input type="email" className="form" placeholder="Your email address" required /> <button type="submit">Subscribe</button> </form>
+                <form className="form-subscribe" action="#"> <input type="email" className="form" placeholder="Your email address1" required /> <button type="submit">Subscribe</button> </form>
+                <form>Hwllo</form>
               </div>
               <ul className="icon-list">
                 <li className="icon"><a className="twitter" href="google.com" /></li>

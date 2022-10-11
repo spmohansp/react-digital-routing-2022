@@ -9,6 +9,7 @@ function App() {
       dfdfdstion of sentences all related to a central topic, idea, or theme. Paragraphs act as structural tools for writers to organize their thoughts into an ideal progression, and they also help readers process those thoughts effortlessly. Imagine how much harder reading and writing would be if everything was just one long block of text. </p>
       <header className="App-header">
         <p>Hello World!!</p>
+        <p>This is text inside the samp tag</p>
       </header>
     </div>
   );

@@ -14,3 +14,7 @@ code {
   font-size: 10px;
   color: red;
   }
+
+  img {
+    border-radius: 8px;
+  }

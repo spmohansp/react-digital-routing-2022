@@ -10,6 +10,9 @@ function App() {
       <header className="App-header">
         <p>Hello World!!</p>
         <p>This is text inside the samp tag</p>
+        <textarea name="message" rows="10" cols="30">
+        The cat was playing in the garden.
+        </textarea>
       </header>
     </div>
   );

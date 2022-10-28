@@ -15,8 +15,7 @@ var CommingSoon = React.createClass({
             <div className="col-12 col-md-7 right">
               <div className="mainInfso">
                 <h1>COMING SOON</h1>
-                <p className="slogan">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime consequuntur
-                  delectus asperiores tempora autem laboriosam omnis. </p>
+                <p className="slogan">Site under development.will updated soon</p>
                 <form className="form-subscribe" action="#"> <input type="email" className="form" placeholder="Your email address1" required /> <button type="submit">Subscribe</button> </form>
                 <form>Hwllo</form>
               </div>
